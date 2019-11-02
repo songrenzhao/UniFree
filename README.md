@@ -6,6 +6,7 @@ UniFree aims to provide students an anonymous forum to discuss about their feeli
 - Jin Chen
 - Nan Chen
 - Jie Lan
+- Enger Then
 
 # Frontend
 [Unifree-Frontend](https://github.com/JiejayLan/unifreefrontend)
